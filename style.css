@@ -388,7 +388,6 @@ a.button:hover {
   left: 0;
   width: 100%;
   height: 1px;
-  background: black;
   animation-name: strike;
   animation-duration: 4s;
   animation-timing-function: linear;
