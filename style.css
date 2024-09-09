@@ -295,6 +295,12 @@ a.button:hover {
   width: 70%;
 }
 
+@media (max-width: 1000px) {
+  .profile-container {
+    width: 100%;
+  }
+}
+
 .profile-card {
   background: #16380c99;
   padding: 40px;
